@@ -10,7 +10,7 @@
 
 ## Added builtins running
 
-![](https://github.com/gAlexander77/shell-builtins/blob/main/Screenshots/program-running.png)
+![](https://github.com/gAlexander77/shell-builtins/blob/main/Screenshots/screenshot.png)
 
 ## Description
 
